@@ -21,14 +21,14 @@ Video Proof: https://youtu.be/8hT4MGm9uUU
 
 ### 📖 HOW TO INSTALL
 IMPORTANT! install latest version of python
-2. Donwload & install python3 ('https://www.python.org/downloads/')
-3. Build your payload with the Remote Administrative tool that you are using
-4. Download the tool ('')
-5. Unzip the file
-6. Open the DUCKY.exe file
-7. Make sure that your python3 path is added to Environment Variables
-8. Drag & Drop your payload into the tool
-9. press ENCRYPT button
+1. Donwload & install python3 ('https://www.python.org/downloads/')
+2. Build your payload with the Remote Administrative tool that you are using
+3. Download the tool ('')
+4. Unzip the file
+5. Open the DUCKY.exe file
+6. Make sure that your python3 path is added to Environment Variables
+7. Drag & Drop your payload into the tool
+8. press ENCRYPT button
 
 To learn more please watch this video: https://youtu.be/8hT4MGm9uUU
 
